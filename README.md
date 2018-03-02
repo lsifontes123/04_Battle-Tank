@@ -1,2 +1,2 @@
-# 04_Battle-Tank
+# Battle-Tank
 An Open-World head to head battle game
